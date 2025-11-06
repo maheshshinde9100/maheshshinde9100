@@ -16,8 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 **Currently working on:** Microservices Architecture & Cloud Deployment
-- 🌱 **Learning:** Kotlin, Advanced System Design, Cloud Architecture
-- 💼 **Experience:** 3+ years in Full Stack Development
+- 🌱 **Learning:** React Native, Advanced System Design, Cloud Architecture
 - 🏆 **Achievements:** 298+ LeetCode problems solved, 186+ day streak
 - ☁️ **Cloud:** Google Cloud Platform certified (28 Skill Badges, 26,411 Points)
 - 👥 **Leadership:** Led teams of 4+ developers on production applications
