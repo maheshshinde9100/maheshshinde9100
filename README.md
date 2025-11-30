@@ -3,7 +3,7 @@
   <h3>🚀 Full Stack Java Developer | Android Developer | Competitive Programmer</h3>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Android+Application+Developer;Competitive+Programmer;3%2B+Years+Experience;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Android+Application+Developer;Competitive+Programmer;Always+Learning+New+Technologies" alt="Typing SVG" />
   </p>
   
   <p>
@@ -17,8 +17,8 @@
 
 - 🔭 **Currently working on:** Microservices Architecture & Cloud Deployment
 - 🌱 **Learning:** React Native, Advanced System Design, Cloud Architecture
-- 🏆 **Achievements:** 298+ LeetCode problems solved, 186+ day streak
-- ☁️ **Cloud:** Google Cloud Platform certified (28 Skill Badges, 26,411 Points)
+- 🏆 **Achievements:** 322+ LeetCode problems solved, 186+ day streak
+- ☁️ **Cloud:** Google Cloud Platform certified (37 Skill Badges, 34455 Points)
 - 👥 **Leadership:** Led teams of 4+ developers on production applications
 - 📈 **Impact:** Built applications serving 100+ users with 99.9% uptime
 
@@ -98,10 +98,10 @@
 
 | 🏆 Achievement | 📊 Details |
 |:---|:---|
-| **LeetCode** | 298+ Problems Solved • 186+ Day Streak • Global Rank ~386k/2M+ |
-| **Google Cloud** | 28 Skill Badges • 26,411 Points • Hands-on Labs & Quests |
+| **LeetCode** | 322+ Problems Solved • 186+ Day Streak • Global Rank ~369,364/2M+ |
+| **Google Cloud** | 37 Skill Badges • 34,455 Points • Hands-on Labs & Quests |
 | **Academic Excellence** | Diploma: 91.37% • SSC: 89.40% • Outstanding Extracurricular Award 2024 |
-| **Professional Certs** | Java • React.js • JavaScript • Python • HackerRank Certified |
+| **Professional Certs** | Java • React.js • JavaScript • HackerRank Certified |
 
 </div>
 
@@ -123,8 +123,8 @@ const currentJourney = {
     
     cloud: {
         focus: "Advanced Cloud Deployment Strategies",
-        platforms: ["Google Cloud Platform", "AWS", "Docker"],
-        achievement: "28 GCP Skill Badges & Growing"
+        platforms: ["Google Cloud Platform", "Docker","GitHub Actions (CI/CD)"],
+        achievement: "37 GCP Skill Badges & Growing"
     },
     
     openSource: {
@@ -151,8 +151,8 @@ const maheshDNA = {
 
 </div> -->
 
-### 🎯 2024 Goals Tracker
-- ✅ **298+ LeetCode Problems** - Achieved!
+### 🎯 2025 Goals Tracker
+- ✅ **322+ LeetCode Problems** - Achieved!
 - ✅ **186+ Day Coding Streak** - Achieved!
 - ✅ **Lead Production Applications** - Achieved!
 - 🔄 **Master Microservices Architecture** - In Progress
