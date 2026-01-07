@@ -53,120 +53,114 @@
 
 
 ---
-
 ## 🏆 Featured Projects
 
 ### 🌟 [MenteeConnect Platform](https://github.com/maheshshinde9100)
-**Tech Stack:** React.js, Spring Boot, MongoDB, JWT, Maven
-- 🚀 Full-stack mentoring platform with role-based access
-- 📈 **40% improvement** in student-mentor engagement
-- ⚡ **99.9% uptime** with sub-200ms API response times
-- 🔧 Handles **1000+ concurrent requests**
-
-### 🤖 [CodeComplexityAI](https://github.com/maheshshinde9100)
-**Tech Stack:** React.js, Node.js, Gemini API
-- 🧠 AI-powered code analysis tool for 7+ programming languages
-- 🎯 **95% accuracy** in complexity analysis
-- ⚡ **70% reduction** in analysis time
-- 🎨 Real-time syntax highlighting
-
-### 📱 [Student Mentoring System (MAPS)](https://github.com/maheshshinde9100)
-**Tech Stack:** Android (Java/XML), SQLite, PHP
-- 👥 Mobile app connecting students, mentors, and admins
-- 📊 **131+ active users** at college level
-- 🏆 **Team Lead** for 4-member development team
-- 🎯 100% project completion rate
+**Tech Stack:** React.js, Spring Boot, MongoDB, JWT, Maven  
+- 🚀 Full-stack mentoring platform with role-based access control  
+- 📈 Achieved **40% improvement** in student–mentor engagement  
+- ⚡ Maintained **99.9% uptime** with sub-200ms API response times  
+- 🔧 Designed to handle **1000+ concurrent requests**
 
 ---
 
+### 🚗 SafePilot – IoT Alcohol & Drowsiness Safety System
+**Tech Stack:** React.js, Node.js, Appwrite (BaaS), WebSockets, HiveMQ (MQTT), Python (OpenCV, MediaPipe)  
+- 🛡️ Real-time vehicle safety system for **alcohol detection, drowsiness monitoring, and overspeed control**  
+- 🔁 Implemented **WebSocket + MQTT–based remote car control** with owner takeover during critical events  
+- 👁️ Python edge processing for **eye-drowsiness detection** with warning escalation and speed throttling  
+- 📊 Owner & Admin dashboards for **live telemetry, driver history, emergency alerts, and vehicle management**
+
+---
+
+### 💰 FundForBharat – Crowdfunding Platform (Internship Project)
+**Tech Stack:** Node.js, Express, MongoDB, Nginx, Jenkins, VPS, PM2  
+- 🏗️ Contributed mainly to **backend development and DevOps**  
+- 🚀 **Individually deployed** the application on a VPS with production configuration  
+- 🔄 Implemented and managed **Jenkins-based CI/CD pipeline** for automated deployment  
+- ⚙️ Handled server setup, reverse proxy (Nginx), process management (PM2), and production stability
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshshinde9100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshshinde9100&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=maheshshinde9100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=maheshshinde9100&theme=tokyonight&hide_border=true" 
+    height="170"
+    alt="GitHub Streak"
+  />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshshinde9100&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshshinde9100&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshshinde9100&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+    alt="Top Languages"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maheshshinde9100&theme=tokyo-night&hide_border=true&area=true" 
+    alt="Contribution Graph"
+  />
 </div>
 
 ---
-
 ## 🏅 Achievements & Certifications
 
 <div align="center">
 
 | 🏆 Achievement | 📊 Details |
 |:---|:---|
-| **LeetCode** | 322+ Problems Solved • 186+ Day Streak • Global Rank ~369,364/2M+ |
+| **LeetCode** | 322+ Problems Solved • 186+ Day Streak • Global Rank ~369,364 / 2M+ |
 | **Google Cloud** | 37 Skill Badges • 34,455 Points • Hands-on Labs & Quests |
-| **Academic Excellence** | Diploma: 91.37% • SSC: 89.40% • Outstanding Extracurricular Award 2024 |
-| **Professional Certs** | Java • React.js • JavaScript • HackerRank Certified |
+| **Academic Excellence** | Diploma: 91.37% • SSC: 89.40% • Outstanding Extracurricular Award |
+| **Professional Certs** | Java • React.js • JavaScript • Cloud & Backend Fundamentals |
 
 </div>
 
 ---
-<!--
-## 🎯 Current Focus & Vision
 
-<div align="center">
+## 🎯 2026 Focus & Roadmap
 
-### 🚀 What I'm Building Right Now
+### 🚀 What I'm Working On (2026)
 
-\`\`\`javascript
-const currentJourney = {
-    architecture: {
-        focus: "Microservices & Distributed Systems",
-        goal: "Building scalable, fault-tolerant applications",
-        impact: "Designing systems that handle millions of requests"
-    },
-    
-    cloud: {
-        focus: "Advanced Cloud Deployment Strategies",
-        platforms: ["Google Cloud Platform", "Docker","GitHub Actions (CI/CD)"],
-        achievement: "37 GCP Skill Badges & Growing"
-    },
-    
-    openSource: {
-        focus: "Contributing to Developer Community",
-        mission: "Sharing knowledge through code & mentorship",
-        projects: ["MenteeConnect", "CodeComplexityAI", "More Coming..."]
-    },
-    
-    learning: {
-        next: ["Kotlin Mastery", "System Design Patterns", "Cloud Architecture"],
-        philosophy: "Every bug is a lesson, every feature is growth",
-        motto: "Code with purpose, build with passion! 🔥"
-    }
-};
+- 🔧 **Building scalable backend systems** using Node.js, Java, and modern APIs  
+- 🌐 **Real-time systems** using WebSockets, MQTT, and event-driven architecture  
+- ☁️ **Cloud & DevOps**: CI/CD pipelines, production deployments, monitoring  
+- 🧠 **System Design & Architecture** for real-world, high-availability applications  
+- 🚗 Enhancing **SafePilot (IoT + SaaS)** with analytics, security, and scalability  
 
-// My Developer DNA
-const maheshDNA = {
-    passion: "Solving complex problems with elegant solutions",
-    strength: "Full-stack thinking with attention to detail",
-    superpower: "Turning ideas into production-ready applications",
-    mission: "Creating technology that makes a difference"
-};
-\`\`\`
+---
 
-</div> -->
-
-### 🎯 2025 Goals Tracker
-- ✅ **322+ LeetCode Problems** - Achieved!
-- ✅ **186+ Day Coding Streak** - Achieved!
-- ✅ **Lead Production Applications** - Achieved!
-- 🔄 **Master Microservices Architecture** - In Progress
-- 🔄 **Contribute to 5+ Open Source Projects** - In Progress
-- 🎯 **Build SaaS Application** - Next Target
-- 🎯 **Achieve 50+ GCP Skill Badges** - Next Target
+### 📌 2026 Goals Tracker
+- ✅ **300+ LeetCode Problems Solved**
+- ✅ **Consistent Long-Term Coding Streak**
+- ✅ **Deployed Production Applications on VPS**
+- 🔄 **Master Backend System Design & Architecture**
+- 🔄 **Strengthen Cloud & DevOps Skills (CI/CD, Monitoring)**
+- 🎯 **Launch a Production-Ready SaaS / Platform**
+- 🎯 **Contribute to Open Source & Technical Communities**
 
 ---
 
 ## 📈 Competitive Programming
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/code-with-mahesh?theme=dark&font=Sunflower&ext=heatmap" alt="LeetCode Stats"/>
+  <img 
+    src="https://leetcard.jacoblin.cool/code-with-mahesh?theme=dark&font=Sunflower&ext=heatmap" 
+    alt="LeetCode Stats"
+  />
 </div>
 
 ---
@@ -186,9 +180,12 @@ const maheshDNA = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=coder-mahi&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=maheshshinde9100&color=blueviolet&style=for-the-badge&label=Profile+Views" 
+    alt="Profile Views"
+  />
   
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>💫 "First, solve the problem. Then, write the code." – John Johnson</h3>
   
-  ⭐ **If you find my work interesting, please consider giving it a star!** ⭐
+  ⭐ **If you find my work interesting, consider giving it a star!** ⭐
 </div>
