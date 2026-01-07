@@ -15,12 +15,13 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** Microservices Architecture & Cloud Deployment
-- 🌱 **Learning:** React Native, Advanced System Design, Cloud Architecture
-- 🏆 **Achievements:** 322+ LeetCode problems solved, 186+ day streak
-- ☁️ **Cloud:** Google Cloud Platform certified (37 Skill Badges, 34455 Points)
-- 👥 **Leadership:** Led teams of 4+ developers on production applications
-- 📈 **Impact:** Built applications serving 100+ users with 99.9% uptime
+- 🔭 **Currently working on:** Backend & Full-Stack Development using **Java, Spring Boot, Microservices**, and **Cloud Deployment**
+- 🌱 **Learning:** Advanced **System Design**, **Cloud Architecture**, and **DevOps (Docker, CI/CD)**
+- 🏆 **Problem Solving:** Solved **322+ LeetCode problems** with a **186+ day consistency streak**
+- ☁️ **Cloud & DevOps:** **Google Cloud Platform** certified with **37 Skill Badges** and **34,455+ points**
+- 👥 **Team Experience:** Led and collaborated in **4+ member teams** to deliver **production-ready applications**
+- 📈 **Real-World Impact:** Built and deployed applications serving **100+ users** with **99.9% uptime** on cloud infrastructure
+- 🌍 **Internship Experience:** Backend Developer Intern working on **live, scalable platforms** with real users and payments
 
 ---
 
