@@ -181,7 +181,7 @@
 
 <div align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=maheshshinde9100&color=blueviolet&style=for-the-badge&label=Profile+Views" 
+    src="https://komarev.com/ghpvc/?username=coder-mahi&color=blueviolet&style=for-the-badge&label=Profile+Views" 
     alt="Profile Views"
   />
   
