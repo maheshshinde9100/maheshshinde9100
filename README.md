@@ -74,7 +74,7 @@
 ---
 
 ### 💰 FundForBharat – Crowdfunding Platform (Internship Project)
-**Tech Stack:** Node.js, Express, MongoDB, Nginx, Jenkins, VPS, PM2  
+**Tech Stack:** SpringBoot, Spring Security, Razorpay Integration, React.js, Nginx, Jenkins, VPS, PM2  
 - 🏗️ Contributed mainly to **backend development and DevOps**  
 - 🚀 **Individually deployed** the application on a VPS with production configuration  
 - 🔄 Implemented and managed **Jenkins-based CI/CD pipeline** for automated deployment  
@@ -82,32 +82,6 @@
 
 ---
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=maheshshinde9100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=maheshshinde9100&theme=tokyonight&hide_border=true" 
-    height="170"
-    alt="GitHub Streak"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshshinde9100&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-    alt="Top Languages"
-  />
-</div>
-
-<br/>
-
 <div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=maheshshinde9100&theme=tokyo-night&hide_border=true&area=true" 
@@ -135,7 +109,7 @@
 
 ### 🚀 What I'm Working On (2026)
 
-- 🔧 **Building scalable backend systems** using Node.js, Java, and modern APIs  
+- 🔧 **Building scalable backend systems** using Spring Boot Microservices, Java, and modern APIs  
 - 🌐 **Real-time systems** using WebSockets, MQTT, and event-driven architecture  
 - ☁️ **Cloud & DevOps**: CI/CD pipelines, production deployments, monitoring  
 - 🧠 **System Design & Architecture** for real-world, high-availability applications  
@@ -185,7 +159,7 @@
     alt="Profile Views"
   />
   
-  <h3>💫 "First, solve the problem. Then, write the code." – John Johnson</h3>
+  <h3>💫 "First, solve the problem. Then, write the code." </h3>
   
   ⭐ **If you find my work interesting, consider giving it a star!** ⭐
 </div>
