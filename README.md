@@ -16,12 +16,11 @@
 ## 🚀 About Me
 
 - 🔭 **Currently working on:** Backend & Full-Stack Development using **Java, Spring Boot, Microservices**, and **Cloud Deployment**
-- 🌱 **Learning:** Advanced **System Design**, **Cloud Architecture**, and **DevOps (Docker, CI/CD)**
+- 🌱 **Learning:** Advanced **System Design**, **Cloud Architecture**, and **DevOps (K8s, Grafana, Prometheus, etc.)**
 - 🏆 **Problem Solving:** Solved **322+ LeetCode problems** with a **186+ day consistency streak**
 - ☁️ **Cloud & DevOps:** **Google Cloud Platform** certified with **37 Skill Badges** and **34,455+ points**
-- 👥 **Team Experience:** Led and collaborated in **4+ member teams** to deliver **production-ready applications**
-- 📈 **Real-World Impact:** Built and deployed applications serving **100+ users** with **99.9% uptime** on cloud infrastructure
-- 🌍 **Internship Experience:** Backend Developer Intern working on **live, scalable platforms** with real users and payments
+- 🌍 **Internship Experience:** As a **Backend Developer Intern**, worked on [**FundForBharat**](https://www.fundforbharat.com/) - a **live crowdfunding platform** with real users and payments. Completely handled **both admin and client-side** applications from **frontend (React.js) to backend (Spring Boot)**. **Integrated Razorpay payment gateway** for secure transactions. Independently deployed on VPS with **production-grade infrastructure** using **CI/CD pipelines (Jenkins)**, reverse proxy **(Nginx)**, process management **(PM2)**, and maintained **99.9% uptime**
+
 
 ---
 
@@ -52,35 +51,32 @@
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🏆 Featured Projects
 
-### 🌟 [MenteeConnect Platform](https://github.com/maheshshinde9100)
-**Tech Stack:** React.js, Spring Boot, MongoDB, JWT, Maven  
-- 🚀 Full-stack mentoring platform with role-based access control  
-- 📈 Achieved **40% improvement** in student–mentor engagement  
-- ⚡ Maintained **99.9% uptime** with sub-200ms API response times  
-- 🔧 Designed to handle **1000+ concurrent requests**
-
----
-
-### 🚗 SafePilot – IoT Alcohol & Drowsiness Safety System
+<!-- ### 🚗 SafePilot – IoT Alcohol & Drowsiness Safety System
 **Tech Stack:** React.js, Node.js, Appwrite (BaaS), WebSockets, HiveMQ (MQTT), Python (OpenCV, MediaPipe)  
 - 🛡️ Real-time vehicle safety system for **alcohol detection, drowsiness monitoring, and overspeed control**  
 - 🔁 Implemented **WebSocket + MQTT–based remote car control** with owner takeover during critical events  
 - 👁️ Python edge processing for **eye-drowsiness detection** with warning escalation and speed throttling  
 - 📊 Owner & Admin dashboards for **live telemetry, driver history, emergency alerts, and vehicle management**
 
----
+--- -->
 
 ### 💰 FundForBharat – Crowdfunding Platform (Internship Project)
-**Tech Stack:** SpringBoot, Spring Security, Razorpay Integration, React.js, Nginx, Jenkins, VPS, PM2  
-- 🏗️ Contributed mainly to **backend development and DevOps**  
-- 🚀 **Individually deployed** the application on a VPS with production configuration  
-- 🔄 Implemented and managed **Jenkins-based CI/CD pipeline** for automated deployment  
-- ⚙️ Handled server setup, reverse proxy (Nginx), process management (PM2), and production stability
+**Tech Stack:** Spring Boot, Spring Security, Razorpay Integration, React.js, MySQL, Nginx, Jenkins CI/CD, PM2, VPS Deployment  
+- 🏗️ Developed **full-stack crowdfunding platform** handling both **admin and client-side** applications from **frontend (React.js) to backend (Spring Boot)**
+- 💳 **Integrated Razorpay payment gateway** for secure donation processing with real-time transaction handling
+- 🔐 Implemented **Spring Security** with role-based access control for admin and user management
+- 🚀 **Individually deployed** both applications on VPS with **production-grade infrastructure** and **zero-downtime deployment**
+- 🔄 Set up and managed **Jenkins CI/CD pipeline** for automated builds, testing, and deployment
+- ⚙️ Configured **Nginx reverse proxy**, **PM2 process management**, SSL certificates, and production optimizations
+- 📊 Maintained **99.9% uptime** serving **real users and processing live payments** in production environment
+- 🌐 **Live Platform:** [fundforbharat.com](https://www.fundforbharat.com/)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 📊 GitHub Stats
 <div align="center">
   <img 
@@ -89,7 +85,8 @@
   />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🏅 Achievements & Certifications
 
 <div align="center">
@@ -103,9 +100,8 @@
 
 </div>
 
----
-
-## 🎯 2026 Focus & Roadmap
+<!-- ---
+ ## 🎯 2026 Focus & Roadmap
 
 ### 🚀 What I'm Working On (2026)
 
@@ -124,12 +120,51 @@
 - 🔄 **Master Backend System Design & Architecture**
 - 🔄 **Strengthen Cloud & DevOps Skills (CI/CD, Monitoring)**
 - 🎯 **Launch a Production-Ready SaaS / Platform**
-- 🎯 **Contribute to Open Source & Technical Communities**
+- 🎯 **Contribute to Open Source & Technical Communities** -->
 
----
 
-## 📈 Competitive Programming
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<h2 align="center">🏆 Competitive Coding Platforms 🏆</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <a href="https://leetcode.com/u/code-with-mahesh" target="_blank">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="48" height="48" alt="LeetCode"/>
+        </a>
+        <br><strong>LeetCode</strong>
+      </td>
+      <td align="center" width="140">
+        <a href="https://www.hackerrank.com/profile/maheshshinde9100" target="_blank">
+          <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-3030100.png?f=webp&w=512" width="48" height="48" alt="HackerRank"/>
+        </a>
+        <br><strong>HackerRank</strong>
+      </td>
+      <td align="center" width="140">
+        <a href="https://www.geeksforgeeks.org/profile/coder_mahi" target="_blank">
+          <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="48" height="48" alt="GeeksforGeeks"/>
+        </a>
+        <br><strong>GeeksforGeeks</strong>
+      </td>
+      <td align="center" width="140">
+        <a href="https://codeforces.com/profile/shindemahesh.dev" target="_blank">
+          <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-2944796.png?f=webp&w=512" width="48" height="48" alt="Codeforces"/>
+        </a>
+        <br><strong>Codeforces</strong>
+      </td>
+      <td align="center" width="140">
+        <a href="https://www.codechef.com/users/mahesh2112" target="_blank">
+          <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="48" height="48" alt="CodeChef"/>
+        </a>
+        <br><strong>CodeChef</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 <div align="center">
   <img 
     src="https://leetcard.jacoblin.cool/code-with-mahesh?theme=dark&font=Sunflower&ext=heatmap" 
@@ -137,7 +172,8 @@
   />
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🤝 Let's Connect!
 
@@ -151,7 +187,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   <img 
