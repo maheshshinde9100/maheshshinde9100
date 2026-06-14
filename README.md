@@ -1,5 +1,45 @@
-![](./profile-3d-contrib/profile-gitblock.svg)
+<!-- <div align="center">
 
+![](https://img.shields.io/badge/Contributions-2800%2B-blue?style=for-the-badge)
+![](https://img.shields.io/badge/LeetCode-382%2B-orange?style=for-the-badge)
+![](https://img.shields.io/badge/GSSoC-2026-success?style=for-the-badge)
+![](https://img.shields.io/badge/Google%20Cloud-Diamond%20League-blueviolet?style=for-the-badge)
+
+</div> -->
+
+<div align="center">
+
+<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshshinde9100&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheshshinde9100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maheshshinde9100&theme=tokyo-night&hide_border=true&bg_color=00000000&line=58A6FF&point=58A6FF&area=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshshinde9100&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /> -->
+
+ <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maheshshinde9100&theme=tokyonight" /> 
+
+</div>
 
 <!-- <div align="center">
 
