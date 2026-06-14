@@ -1,4 +1,7 @@
-<div align="center">
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0f2744,100:1a3a5c&height=220&section=header&text=Mahesh%20Shinde&fontSize=58&fontColor=e2e8f0&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%E2%80%94%20Backend%20Engineer&descAlignY=57&descSize=16&descColor=64B5F6&animation=fadeIn" />
 
@@ -155,4 +158,4 @@ ABSTRACT: Smart bin IoT sensors integrated with a real-time React.js dashboard
 
 If you find my work useful, consider giving a star
 
-</div>
+</div> -->
