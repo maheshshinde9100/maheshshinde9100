@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"/>
+<img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph"/>
 
 </div>
 
