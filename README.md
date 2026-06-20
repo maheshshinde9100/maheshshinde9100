@@ -15,6 +15,22 @@
 
 <br/>
 
+## 🌟 GSSoC 2026 Milestones
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/989335a5-00de-4f69-b6c8-00fa37a6bdf9" target="_blank">
+    <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" width="30%" alt="Rising Star Badge" />
+  </a>
+  <a href="https://gssoc.girlscript.org/profile/989335a5-00de-4f69-b6c8-00fa37a6bdf9" target="_blank">
+    <img src="https://gssoc.girlscript.org/badges/milestone/role_pa.png" width="30%" alt="Project Admin Badge" />
+  </a>
+  <a href="https://gssoc.girlscript.org/profile/989335a5-00de-4f69-b6c8-00fa37a6bdf9" target="_blank">
+    <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="30%" alt="Contributor Badge" />
+  </a>
+</p>
+
+<br/>
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshshinde9100&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
@@ -35,9 +51,17 @@
 
 <div align="center">
 
+<!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maheshshinde9100&theme=tokyonight" /> -->
+
+</div>
+<br/>
+
+<div align="center">
+
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshshinde9100&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /> -->
 
- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maheshshinde9100&theme=tokyonight" /> 
+ <!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maheshshinde9100&theme=tokyonight" /> 
+ -->
 
 </div>
 
